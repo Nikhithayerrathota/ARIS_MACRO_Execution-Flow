@@ -8,7 +8,7 @@ This repository details the 5-layer interaction model that enforces real-time pr
 
 ## 🖼️ Architectural Diagram
 
-![ARIS Macro Execution Flow](ARIS_MACRO_EXECUTION_FLOW.draw.io-4.png)
+![ARIS Macro Execution Flow](ARIS_MACRO_Execution_Flow.draw.io-4.png)
 
 ---
 
