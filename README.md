@@ -28,10 +28,9 @@ This repository details the 5-layer interaction model that enforces real-time pr
        │
        ▼
 [ 5. Decision & Persistence ] ─────► [ YES ] ──► Commit to ARIS RDBMS
+       │
+       └──────────────────────────► [ NO  ] ──► Display Validation Error
 
-
-
----
 
 ## 🎯 Value & Deliverables
 
@@ -50,5 +49,7 @@ This repository details the 5-layer interaction model that enforces real-time pr
 * **Architecture Diagram:** A 5-layer workflow map covering event handling, rule execution, and database commit paths.
 * **Validation Dialogs:** User-facing error popups that explain what needs to be fixed on the canvas.
 * **Reusable Rule Modules:** A modular script setup that makes it easy to add or update validation rules as governance needs evolve.
-       │
-       └──────────────────────────► [ NO  ] ──► Display Validation Error
+
+
+
+
