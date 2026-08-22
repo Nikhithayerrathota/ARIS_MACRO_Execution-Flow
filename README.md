@@ -30,7 +30,7 @@ This repository details the 5-layer interaction model that enforces real-time pr
 [ 5. Decision & Persistence ] ─────► [ YES ] ──► Commit to ARIS RDBMS
        │
        └──────────────────────────► [ NO  ] ──► Display Validation Error
-
+---
 
 ## 🎯 Value & Deliverables
 
